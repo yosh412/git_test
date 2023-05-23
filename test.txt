@@ -1,2 +1,6 @@
 hallo wie geht es dir
+<<<<<<< HEAD
 huhu jetzt herunterladen
+=======
+ich bin jetzt auf branch yoshua
+>>>>>>> yoshua
